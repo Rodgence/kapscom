@@ -24,7 +24,7 @@
        </div>
 
        <div class="col-md-6">
-        <img src="assets/img/Extinguisher 4[2026] transparent.webp" alt="">
+        <img src="assets/img/Extinguisher 4[2026] transparent.webp" alt=""width="80%" height="90%">
        </div>
     </div>
 </div>

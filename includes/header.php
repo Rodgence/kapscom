@@ -52,7 +52,7 @@
           <li class="dropdown"><a href="#"><span>Services</span> <i class="bi bi-chevron-down"></i></a>
             <ul>
               <li><a href="fireexinguisher.php">Fire Extinguishing Systems</a></li>
-              <li class="dropdown"><a href="#"><span>Computer System Solutions</span> <i class="bi bi-chevron-right"></i></a>
+              <li class="dropdown"><a href="computer.php"><span>Computer System Solutions</span></i></a>
                 <!-- <ul>
                   <li><a href="#">Computer System Solutions</a></li>
                   <li><a href="#">Internet, VoIP and Data Solutions</a></li>
@@ -94,7 +94,7 @@
           </li> -->
 
           <li><a class="nav-link scrollto" href="contact.php">Contact</a></li>
-          <li><a class="getstarted scrollto" href="#about">Get Started</a></li>
+          <li><a class="getstarted scrollto" href="about.php">Get Started</a></li>
         </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>
       </nav><!-- .navbar -->
