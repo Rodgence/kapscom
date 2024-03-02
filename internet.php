@@ -23,7 +23,7 @@
         </div>
 
         <div class="col-md-6">
-            <img src="" alt="">
+            <img src="assets/img/computer-networks.jpg" alt="">
         </div>
     </div>
 </div>
