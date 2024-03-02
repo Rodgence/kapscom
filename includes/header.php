@@ -61,7 +61,7 @@
                   <li><a href="#">Access Control System</a></li>
                 </ul> -->
               </li>
-              <li><a href="#">Internet, VoIP and Data Solutions</a></li>
+              <li><a href="internet.php">Internet, VoIP and Data Solutions</a></li>
               <li><a href="#">Closed Circuit TV Systems</a></li>
               <li><a href="#">Fire & Smoke detection System</a></li>
               <li><a href="#">Access Control System</a></li>
