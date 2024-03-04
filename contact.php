@@ -95,5 +95,5 @@
 <!-- include footer -->
 
 <?php
-    include("footer.php");
+    include("includes/footer.php");
 ?>
