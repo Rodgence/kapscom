@@ -208,7 +208,7 @@
               <h4>INTERNET, VOIP AND DATA SOLUTIONS</h4>
               <p>KAPSCOM AFRICA LTD is a Premium Corporate Connectivity and Internet Solutions
                 Provider in Tanzania with a year’s operational experience.</p>
-              <a href="#" class="read-more"><span>Read More</span> <i class="bi bi-arrow-right"></i></a>
+              <a href="internet.php" class="read-more"><span>Read More</span> <i class="bi bi-arrow-right"></i></a>
             </div>
           </div>
 
@@ -219,7 +219,7 @@
               </h4>
               <p>KAPSCOM AFRICA; We understand the role of computers play today. Computer
                 systems are vital for both business and personal needs. </p>
-              <a href="#" class="read-more"><span>Read More</span> <i class="bi bi-arrow-right"></i></a>
+              <a href="computer.php" class="read-more"><span>Read More</span> <i class="bi bi-arrow-right"></i></a>
             </div>
           </div>
 
@@ -230,7 +230,7 @@
               <p>We designs Closed Circuit TV Systems (CCTV Cameras), which have
                 become an indispensable part of electronic security and automation systems over the
                 last 5 years.</p>
-              <a href="#" class="read-more"><span>Read More</span> <i class="bi bi-arrow-right"></i></a>
+              <a href="cctv.php" class="read-more"><span>Read More</span> <i class="bi bi-arrow-right"></i></a>
             </div>
           </div>
 
@@ -241,7 +241,7 @@
               </h4>
               <p>KAPSCOM AFRICA installs fire alarm systems for homes and businesses using the
                 most advanced and reliable technologies in the market.</p>
-              <a href="#" class="read-more"><span>Read More</span> <i class="bi bi-arrow-right"></i></a>
+              <a href="fireextingusher.php" class="read-more"><span>Read More</span> <i class="bi bi-arrow-right"></i></a>
             </div>
           </div>
 
@@ -251,7 +251,7 @@
               <h4>BIOMETRIC HAND & FINGERPRINT IDENTITY SYSTEMS</h4>
               <p>KAPSCOM AFRICA has included biometric systems in its Access Control
                 configurations four years ago.</p>
-              <a href="#" class="read-more"><span>Read More</span> <i class="bi bi-arrow-right"></i></a>
+              <a href="" class="read-more"><span>Read More</span> <i class="bi bi-arrow-right"></i></a>
             </div>
           </div>
 
