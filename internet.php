@@ -53,19 +53,19 @@
                 various network protocols. Layer2 / Layer3 MPLS Virtual Private Network.
                 IP VOICE SOLUTION - VoIP Hosted PBX Business Class Features:
                 <ol>
-                    <p><b>></b> FREE local calling</p>
+                    <p><i class="bi bi-arrow-right" style="color: #6144f2;"></i> FREE local calling</p>
                 </ol>
                 <ol>
-                    <p><b>></b> FREE Zone calling</p>
+                    <p><i class="bi bi-arrow-right" style="color: #6144f2;"></i> FREE Zone calling</p>
                 </ol>
                 <ol>
-                    <p><b>></b> FREE intra-office calling</p>
+                    <p><i class="bi bi-arrow-right" style="color: #6144f2;"></i> FREE intra-office calling</p>
                 </ol>
                 <ol>
-                    <p><b>></b> FREE inter-office calling</p>
+                    <p><i class="bi bi-arrow-right" style="color: #6144f2;"></i> FREE inter-office calling</p>
                 </ol>
                 <ol>
-                Nationwide long distance as low as 3 cents a minute and also Conference Bridge Service
+                National wide long distance as low as 3 cents a minute and also Conference Bridge Service
                 is available.
             </p>
         </div>

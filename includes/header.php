@@ -49,7 +49,7 @@
           <li><a class="nav-link scrollto active" href="#hero">Home</a></li>
           <li><a class="nav-link scrollto" href="about.php">About</a></li>
           <!-- <li><a class="nav-link scrollto" href="#services">Services</a></li> -->
-          <li><a class="nav-link scrollto" href="#portfolio">Portfolio</a></li>
+          <!-- <li><a class="nav-link scrollto" href="#portfolio">Portfolio</a></li> -->
           <li><a class="nav-link scrollto" href="#team">Team</a></li>
           <li><a href="#">Blog</a></li>
           <li class="dropdown"><a href="#"><span>Services</span> <i class="bi bi-chevron-down"></i></a>
@@ -65,7 +65,7 @@
                 </ul> -->
               </li>
               <li><a href="internet.php">Internet, VoIP and Data Solutions</a></li>
-              <li><a href="#">Closed Circuit TV Systems</a></li>
+              <li><a href="cctv.php">Closed Circuit TV Systems</a></li>
               <li><a href="#">Fire & Smoke detection System</a></li>
               <li><a href="#">Access Control System</a></li>
             </ul>
