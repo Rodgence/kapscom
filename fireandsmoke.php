@@ -26,6 +26,14 @@
             <img src="assets/img/firelarm.png" alt="" width="90%" height="100%">
         </div>
     </div>
+
+    <div class="col-md-12">
+    Fire alarm systems have detectors that detect the onset of the fire and this makes
+early intervention possible. Based on the evacuation plans of the protected building,
+exit points like emergency exits, turnstiles, barriers at parking lots and other road
+barriers and hydraulic passage control posts are set loose automatically. The power
+supply for many locations may be offset to prevent the fire from expanding.
+    </div>
 </div>
 
 
