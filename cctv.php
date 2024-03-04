@@ -26,6 +26,19 @@
     </div>
 </div>
 
+<div class="container">
+    <div class="row">
+        <div class="col-md-6">
+            <p>
+                Closed Circuit TV Systems installed for security purposes are normally used to manage
+                the movement of people around the areas to be protected. The videos captured by
+                these cameras are stored either digitally or conventionally. The digitally stored videos
+                can be accessed from a remote location.
+            </p>
+        </div>
+    </div>
+</div>
+
 
 
 
