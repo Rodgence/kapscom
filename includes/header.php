@@ -72,6 +72,7 @@
               <li><a href="alarmsystem.php">Burglar Alarm System</a></li>
               <li><a href="intercomvideo.php">Intercom & Video intercom systems</a></li>
               <li><a href="publicaddress.php">Public Address System</a></li>
+              <li><a href="dataandvoice.php">Data & Voice System</a></li>
             </ul>
           </li>
 
