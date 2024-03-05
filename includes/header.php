@@ -71,6 +71,7 @@
               <li><a href="biometric.php">Biometric hand & Fingerprint indentity system</a></li>
               <li><a href="alarmsystem.php">Burglar Alarm System</a></li>
               <li><a href="intercomvideo.php">Intercom & Video intercom systems</a></li>
+              <li><a href="publicaddress.php">Public Address System</a></li>
             </ul>
           </li>
 

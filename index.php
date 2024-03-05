@@ -678,14 +678,14 @@
                 <div class="info-box">
                   <i class="bi bi-telephone"></i>
                   <h3>Call Us</h3>
-                  <p>+255 679 520 524<br>+255 762 988 288</p>
+                  <p><a href="tel:+255679520524">+255 679 520 524</a><br><a href="tel:+255762988288">+255 762 988 288</a></p>
                 </div>
               </div>
               <div class="col-md-6">
                 <div class="info-box">
                   <i class="bi bi-envelope"></i>
                   <h3>Email Us</h3>
-                  <p>sales@kapscomafrica.co.tz<br></p>
+                  <p><a href="mailto:sales@kapscomafrica.co.tz">sales@kapscomafrica.co.tz</a><br></p>
                 </div>
               </div>
               <div class="col-md-6">

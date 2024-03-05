@@ -64,7 +64,7 @@
           BMTL Building, Victoria, <br>New Bagamoyo road<br>
           P.O. BOX 79579 Dar es salaam<br>
           Tanzania <br><br>
-          <strong>Phone:</strong> +255 713 254 553<br>
+          <strong>Phone:</strong><a href="tel:+255713254553">+255 713 254 553</a><br>
           <strong>Email:</strong> <a href="mailto:sales@kapscomafrica.co.tz">sales@kapscomafrica.co.tz</a><br>
         </p>
 
