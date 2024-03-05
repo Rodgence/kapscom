@@ -26,7 +26,7 @@
         </p>
         </div>
         <div class="col-md-6">
-                <img src="assets/img/computer.webp" alt="" width="90%" height="90%">
+                <img src="assets/img/computer.webp" alt="" width="100%">
         </div>
     </div>
 </div>

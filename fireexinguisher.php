@@ -32,7 +32,7 @@
 <div class="container">
   <div class="row mt-5">
     <div class="col-md-6">
-      <img src="assets/img/fire.png" alt="" width="100%" height="90%">
+      <img src="assets/img/fire.png" alt="" width="100%">
     </div>
 
     <div class="col-md-6">

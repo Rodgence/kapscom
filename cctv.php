@@ -9,7 +9,7 @@
     <div class="row mt-5">
         <h1 class="text-center pb-4">CLOSED CIRCUIT TV SYSTEMS</h1>
         <div class="col-md-6">
-            <img src="assets/img/cctv.jpeg" alt="" width="80%" height="80%">
+            <img src="assets/img/cctv.jpeg" alt="" width="100%" >
         </div>
 
         <div class="col-md-6">

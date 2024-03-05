@@ -32,7 +32,7 @@
 <div class="container">
     <div class="row">
         <div class="col-md-6 pt--5">
-            <img src="assets/img/voip.png" alt="" width="80%">
+            <img src="assets/img/voip.png" alt="" width="100%">
         </div>
 
         <div class="col-md-6">
