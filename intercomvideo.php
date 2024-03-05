@@ -19,6 +19,15 @@
                 with an optimum equipment configuration.
 
             </p>
+
+            <p>
+                    Intercom systems with or without image transmission are installed in the
+                    most suitable places to ensure entrance security. They can be used as
+                    stand-alone or networked depending on the number of users and of
+                    entrances to be managed. Depending on the existing wirings of the building
+                    or by the request from the customer analog or digital intercom systems can
+                    be installed.
+                </p>
         </div>
 
         <div class="col-md-6">
@@ -34,14 +43,7 @@
             </div>
 
             <div class="col-md-6">
-                <p>
-                    Intercom systems with or without image transmission are installed in the
-                    most suitable places to ensure entrance security. They can be used as
-                    stand-alone or networked depending on the number of users and of
-                    entrances to be managed. Depending on the existing wirings of the building
-                    or by the request from the customer analog or digital intercom systems can
-                    be installed.
-                </p>
+                
 
                 <p>
                     Depending on installed configurations, the system permits
