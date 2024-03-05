@@ -28,28 +28,33 @@
 
     <div class="container mt-5 pt-5">
         <div class="row mt-5 pt-5">
-            <img src="assets/img/securityintercom.jpg" alt="" width="100%">
-        </div>
+           
+       
 
-        <div class="col-md-6">
-            <p>
-                Intercom systems with or without image transmission are installed in the
-                most suitable places to ensure entrance security. They can be used as
-                stand-alone or networked depending on the number of users and of
-                entrances to be managed. Depending on the existing wirings of the building
-                or by the request from the customer analog or digital intercom systems can
-                be installed.
-            </p>
+            <div class="col-md-6">
+                <img src="assets/img/securityintercom.jpg" alt="" width="100%">
+            </div>
 
-            <p>
-                Depending on installed configurations, the system permits
-                host-visitor communication or communication between occupants of the
-                same building or communication between a caretaker and visitors. In
-                residential estates and condominiums, the system permits communication
-                between the occupants of apartments and the security staff and visitors.
-                Designs are normally carried out according to the chosen option and the
-                budget of the customer.
-            </p>
+            <div class="col-md-6">
+                <p>
+                    Intercom systems with or without image transmission are installed in the
+                    most suitable places to ensure entrance security. They can be used as
+                    stand-alone or networked depending on the number of users and of
+                    entrances to be managed. Depending on the existing wirings of the building
+                    or by the request from the customer analog or digital intercom systems can
+                    be installed.
+                </p>
+
+                <p>
+                    Depending on installed configurations, the system permits
+                    host-visitor communication or communication between occupants of the
+                    same building or communication between a caretaker and visitors. In
+                    residential estates and condominiums, the system permits communication
+                    between the occupants of apartments and the security staff and visitors.
+                    Designs are normally carried out according to the chosen option and the
+                    budget of the customer.
+                </p>
+            </div>
         </div>
     </div>
 </div>
