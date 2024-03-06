@@ -75,6 +75,10 @@
               <li><a href="dataandvoice.php">Data & Voice System</a></li>
               <li><a href="tvsatellite.php">TV satellite system</a></li>
               <li><a href="outdoor.php">Outdoor perimenter intrusion detection systems</a></li>
+              <li><a href="carplate.php">Car plate recognition systems</a></li>
+              <li><a href="x-ray.php">X-ray security screening systems</a></li>
+              <li><a href="aircondition.php">Air Conditioners solutions</a></li>
+              <li><a href="fence.php">Electric fence solutions</a></li>
             </ul>
           </li>
 
