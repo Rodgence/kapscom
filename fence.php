@@ -5,7 +5,7 @@
 
 <div class="container mt-5 pt-5">
     <div class="row mt-5">
-        <h1 class="text-center">
+        <h1 class="text-center mb-4">
             ELECTRIC FENCE SOLUTIONS
         </h1>
 
