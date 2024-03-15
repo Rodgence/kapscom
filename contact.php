@@ -23,7 +23,7 @@
                   <div class="info-box">
                     <i class="bi bi-geo-alt"></i>
                     <h3>Address</h3>
-                    <p><br>BMTL Building, victoria, New Bagamoyo Road</p>
+                    <p><br><a href="https://maps.app.goo.gl/xrQjjDxgaUs5XSKX7">BMTL Building, victoria, New Bagamoyo Road</a></p>
                   </div>
                 </div>
                 <div class="col-md-6">
@@ -37,7 +37,7 @@
                   <div class="info-box">
                     <i class="bi bi-envelope"></i>
                     <h3>Email Us</h3>
-                    <p>sales@kapscomafrica.co.tz<br></p>
+                    <p><a href="mailto:sales@kapscomafrica.co.tz">sales@kapscomafrica.co.tz</a><br></p>
                   </div>
                 </div>
                 <div class="col-md-6">
@@ -90,6 +90,7 @@
   
       </section><!-- End Contact Section -->
   </div>
+
 
  
 <!-- include footer -->
