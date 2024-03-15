@@ -111,7 +111,7 @@
           </li>
 
           <li><a class="nav-link scrollto" href="contact.php">Contact</a></li>
-          <li><a class="getstarted scrollto" href="https://wa.me/255713254553?text=Hello I need to learn more about KapsCom Africa services" target="_blank">Chat on Whatsapp</a></li>
+          <li><a class="getstarted scrollto" href="https://wa.me/255713254553?text=Hello I need to learn more about KapsCom Africa services" target="_blank">Chat on WhatsApp</a></li>
         </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>
       </nav><!-- .navbar -->
