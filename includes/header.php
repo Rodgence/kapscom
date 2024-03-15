@@ -102,7 +102,7 @@
                   <a href="fence.php">Electric fence solutions</a>
                   <a href="intercomvideo.php">Intercom & Video intercom systems</a>
                   <a href="dataandvoice.php">Data & Voice System</a>
-                  <a href="outdoor.php">Outdoor perimenter intrusion detection systems</a>
+                  <a href="outdoor.php">Outdoor perimenter intrusion systems</a>
                   <a href="x-ray.php">X-ray security screening systems</a>
                   <a href="aircondition.php">Air Conditioners solutions</a>
               </li>
