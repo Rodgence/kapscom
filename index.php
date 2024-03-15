@@ -10,8 +10,10 @@
     <div class="container">
       <div class="row">
         <div class="col-lg-6 d-flex flex-column justify-content-center">
-          <h1 data-aos="fade-up">Kapscom Africa<br>We offer modern solutions for growing your business</h1>
-          <h2 data-aos="fade-up" data-aos-delay="400">We are team of talented IT experts providing various services</h2>
+        <h1 class="text-danger">KapsCom Africa</h1>
+          <h2 data-aos="fade-up">We offer modern solutions for growing your business</h2>
+          <p>We are team of talented IT experts providing various services</p>
+          <h2 data-aos="fade-up" data-aos-delay="400"></h2>
           <div data-aos="fade-up" data-aos-delay="600">
             <div class="text-center text-lg-start">
               <a href="contact.php" class="btn-get-started scrollto d-inline-flex align-items-center justify-content-center align-self-center">
