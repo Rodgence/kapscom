@@ -66,7 +66,7 @@
           Tanzania <br><br>
           <strong>Phone 1:</strong><a href="tel:+255679520524"> +255 679 520 524</a><br>
           <strong>Phone 2:</strong><a href="tel:+255762988288"> +255 762 988 288</a><br>
-          <strong>Phone 3:</strong><a href="tel:+255713254553">+255 713 254 553</a><br>
+          <strong>Phone 3:</strong><a href="tel:+255713254553"> +255 713 254 553</a><br>
           <strong>Email:</strong> <a href="mailto:sales@kapscomafrica.co.tz">sales@kapscomafrica.co.tz</a><br>
         </p>
 
