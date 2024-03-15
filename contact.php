@@ -23,7 +23,7 @@
                   <div class="info-box">
                     <i class="bi bi-geo-alt"></i>
                     <h3>Address</h3>
-                    <p><br><a href="https://maps.app.goo.gl/xrQjjDxgaUs5XSKX7">BMTL Building, victoria, New Bagamoyo Road</a></p>
+                    <p><br><a href="https://maps.app.goo.gl/xrQjjDxgaUs5XSKX7" target="_blank">BMTL Building, victoria, New Bagamoyo Road</a></p>
                   </div>
                 </div>
                 <div class="col-md-6">
