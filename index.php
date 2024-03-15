@@ -589,8 +589,8 @@
       <div class="container" data-aos="fade-up">
 
         <header class="section-header">
-          <h2>Our Clients</h2>
-          <p>We collaborate with happy clients</p>
+          <h2>Our Partners</h2>
+          <p>We collaborate with partners</p>
         </header>
 
         <div class="clients-slider swiper">
