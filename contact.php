@@ -30,7 +30,7 @@
                   <div class="info-box">
                     <i class="bi bi-telephone"></i>
                     <h3>Call Us</h3>
-                    <p>+255 679 520 524<br>+255 762 988 288</p>
+                    <p><a href="tel:+255679520524">+255 679 520 524</a><br><a href="tel:+255762988288">+255 762 988 288</a><br><a href="tel:+255713254553">+255 713 254 553</a></p>
                   </div>
                 </div>
                 <div class="col-md-6">
