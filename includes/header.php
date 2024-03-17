@@ -84,8 +84,8 @@
 
           <li class="dropdown megamenu"><a href="#"><span>Services</span> <i class="bi bi-chevron-down"></i></a>
             <ul>
-              <li> <a href="internet.php">Internet, VoIP & Data solutions</a>
-                  <a href="computer.php">Computer System Solutions</a>
+              <li> <a href="internet.php"><i class="bi bi-chevron-double-right"></i>Internet, VoIP & Data solutions</a>
+                  <a href="computer.php"><i class="bi bi-chevron-double-right"></i>Computer System Solutions</a>
                  
                   <a href="cctv.php">Closed Circuit TV Systems</a>
                   <a href="fireandsmoke.php">Fire & Smoke detection System</a>
@@ -105,6 +105,7 @@
                   <a href="outdoor.php">Outdoor perimenter intrusion systems</a>
                   <a href="x-ray.php">X-ray security screening systems</a>
                   <a href="aircondition.php">Air Conditioners solutions</a>
+                  <a href="#">Website Development</a>
               </li>
               
             </ul>
