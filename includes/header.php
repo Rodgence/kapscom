@@ -83,8 +83,8 @@
 
           <li class="dropdown megamenu"><a href="#"><span>Services</span> <i class="bi bi-chevron-down"></i></a>
             <ul>
-              <li> <a href="internet.php"><i class="bi bi-chevron-double-right"></i>Internet, VoIP & Data solutions</a>
-                  <a href="computer.php"><i class="bi bi-chevron-double-right"></i>Computer System Solutions</a>
+              <li> <a href="internet.php"><i></i>Internet, VoIP & Data solutions</a>
+                  <a href="computer.php"><i></i>Computer System Solutions</a>
                  
                   <a href="cctv.php">Closed Circuit TV Systems</a>
                   <a href="fireandsmoke.php">Fire & Smoke detection System</a>
@@ -112,7 +112,7 @@
           <li><a href="assets/img/KAPSCOM AFRICA LIMITED NEW COMPANY PROFILE.pdf" download>Company profile</a></li>
 
           <li><a class="nav-link scrollto" href="contact.php">Contact</a></li>
-          <li><a href="#">Events</a></li>
+          <!-- <li><a href="#">Events</a></li> -->
 
           <li><a class="getstarted scrollto" href="https://wa.me/255713254553?text=Hello I need to learn more about KapsCom Africa services" target="_blank">Chat on WhatsApp</a></li>
         </ul>

@@ -61,7 +61,7 @@
       <div class="col-lg-3 col-md-12 footer-contact text-center text-md-start">
         <h4>Contact Us</h4>
         <p>
-          <a href="https://maps.app.goo.gl/kRaa5Ah51y1ETjvD8" target="_blank">BMTL Building, Victoria, <br>New Bagamoyo road<br></a>
+          <a href="https://maps.app.goo.gl/Bre25XrfZ63Bm6TK7" target="_blank">BMTL Building, Victoria, <br>New Bagamoyo road<br></a>
           P.O. BOX 79579 Dar es salaam<br>
           Tanzania <br><br>
           <strong>Phone 1:</strong><a href="tel:+255679520524"> +255 679 520 524</a><br>
