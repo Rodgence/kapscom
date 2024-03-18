@@ -83,8 +83,8 @@
 
           <li class="dropdown megamenu"><a href="#"><span>Services</span> <i class="bi bi-chevron-down"></i></a>
             <ul>
-              <li> <a href="internet.php"><i></i>Internet, VoIP & Data solutions</a>
-                  <a href="computer.php"><i></i>Computer System Solutions</a>
+              <li> <a href="internet.php">Internet, VoIP & Data solutions</a>
+                  <a href="computer.php">Computer System Solutions</a>
                  
                   <a href="cctv.php">Closed Circuit TV Systems</a>
                   <a href="fireandsmoke.php">Fire & Smoke detection System</a>
