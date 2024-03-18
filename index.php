@@ -166,13 +166,13 @@
                   </div>
                 </div>
 
-                <div class="col-md-6 icon-box" data-aos="fade-up" data-aos-delay="400">
+                <!-- <div class="col-md-6 icon-box" data-aos="fade-up" data-aos-delay="400">
                   <i class="ri-command-line"></i>
                   <div>
                     <h4>Community Engagement:</h4>
                     <p>We contribute positively to the communities we serve, supporting social responsibility initiatives and environmental sustainability efforts.</p>
                   </div>
-                </div>
+                </div> -->
 
                 <div class="col-md-6 icon-box" data-aos="fade-up" data-aos-delay="500">
                   <i class="ri-radar-line"></i>
