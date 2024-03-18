@@ -51,7 +51,6 @@
           <!-- <li><a class="nav-link scrollto" href="#services">Services</a></li> -->
           <!-- <li><a class="nav-link scrollto" href="#portfolio">Portfolio</a></li> -->
           <!-- <li><a class="nav-link scrollto" href="#team">Team</a></li> -->
-          <li><a href="#">Events</a></li>
           <!-- <li class="dropdown"><a href="#"><span>Services</span> <i class="bi bi-chevron-down"></i></a>
             <ul>
               <li></li>
@@ -110,8 +109,11 @@
               
             </ul>
           </li>
+          <li><a href="assets/img/KapsCom Africa Company Profile.pdf" download>Company profile</a></li>
 
           <li><a class="nav-link scrollto" href="contact.php">Contact</a></li>
+          <li><a href="#">Events</a></li>
+
           <li><a class="getstarted scrollto" href="https://wa.me/255713254553?text=Hello I need to learn more about KapsCom Africa services" target="_blank">Chat on WhatsApp</a></li>
         </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>
