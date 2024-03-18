@@ -13,7 +13,7 @@
           <img src="assets/img/logo.png" alt="" width="100%">
         <!-- <h1 class="text-danger">KapsCom Africa</h1> -->
           <h1 data-aos="fade-up">We offer modern solutions for growing your business</h1>
-          <h3>We are team of talented IT experts providing various services</h3>
+          <h3>We are team of talented IT experts providing various services in Tanzania</h3>
           <h2 data-aos="fade-up" data-aos-delay="400"></h2>
           <div data-aos="fade-up" data-aos-delay="600">
             <div class="text-center text-lg-start">
