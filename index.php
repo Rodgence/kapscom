@@ -663,7 +663,7 @@
         <div class="container" data-aos="fade-up">
   
           <header class="section-header">
-            <h2>Contact</h2>
+            <!-- <h2>Contact</h2> -->
             <p>Contact Us</p>
           </header>
   
