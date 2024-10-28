@@ -112,7 +112,7 @@
           <li><a href="assets/img/KAPSCOM AFRICA LIMITED NEW COMPANY PROFILE.pdf" download>Company profile</a></li>
 
           <li><a class="nav-link scrollto" href="contact.php">Contact</a></li>
-          <li><a class="nav-link scrollto" href="https://chui.duduhosting.net:2096/cpsess6328242017/3rdparty/roundcube/?_task=mail&_mbox=INBOX">Staff Webmail</a></li>
+          <li><a class="nav-link scrollto" href="https://chui.duduhosting.net:2096/cpsess6328242017/3rdparty/roundcube/?_task=mail&_mbox=INBOX" target="_blank">Staff Webmail</a></li>
           <!-- <li><a href="#">Events</a></li> -->
 
           <li><a class="getstarted scrollto" href="https://wa.me/255713254553?text=Hello I need to learn more about KapsCom Africa services" target="_blank">Chat on WhatsApp</a></li>
